@@ -1,14 +1,6 @@
 # SWDB_2023
-![SWDB_2023](code/workshop1/resources/cropped-SummerWorkshop_Header.png)
 
-This is the repository for the Cell Types and Function tutorial for the 2023 Summer Workshop on the Dynamic Brain.
-
-This repository covers concepts about exploring cell types and function using the MICrONS explorer dataset.
-
-Workshop 1 covers unsupervised clustering techniques on high dimensional features to define cell types.
-
-Workshop 2 explores how functional correlation distributions change when looking between neurons of different cell types, 
-versus neurons that are synaptically connected. 
+This is the template repository for using the MICRONS dataset at the 2023 Summer Workshop on the Dynamic Brain.
 
 # Support Policy
 
